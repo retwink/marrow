@@ -1,6 +1,6 @@
 # marrow
 
-Back up photos & videos to Google Photos through an Android phone or redroid, unlimited & original quality.
+Unlimited original-quality Google Photos backup
 
 **Source:** https://git.thromb.us/eve/marrow
 **Mirror:** https://codeberg.org/hemepanel/marrow
